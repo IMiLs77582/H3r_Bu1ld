@@ -11141,8 +11141,8 @@
       ]
     },
     {
-      "slug": "fredrinn",
-      "name": "Fredrinn",
+      "slug": "fredrin",
+      "name": "Fredrin",
       "builds": [
         {
           "title": "Jungle Objective Tank",
@@ -26126,7 +26126,7 @@
       ]
     },
     {
-      "slug": "odette",
+      "slug": "odete",
       "name": "Odete",
       "builds": [
         {
@@ -26675,7 +26675,7 @@
       ]
     },
     {
-      "slug": "pharsa",
+      "slug": "parsha",
       "name": "Parsha",
       "builds": [
         {
@@ -27203,7 +27203,7 @@
       ]
     },
     {
-      "slug": "popol-and-kupa",
+      "slug": "popol-&-kupa",
       "name": "Popol & Kupa",
       "builds": [
         {
@@ -28867,7 +28867,7 @@
       ]
     },
     {
-      "slug": "silvanna",
+      "slug": "silvana",
       "name": "Silvana",
       "builds": [
         {
@@ -30290,7 +30290,7 @@
       ]
     },
     {
-      "slug": "thamuz",
+      "slug": "thamus",
       "name": "Thamus",
       "builds": [
         {
@@ -32986,7 +32986,7 @@
       ]
     },
     {
-      "slug": "yi-sun-shin",
+      "slug": "yi-shun-shin",
       "name": "Yi Shun Shin",
       "builds": [
         {
