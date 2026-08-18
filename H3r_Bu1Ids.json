@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "updated": "2026-07-16",
-  "source": "MLBBHub Curated Loadouts",
+  "source": "ML",
   "maximum_builds_per_hero": 3,
   "items_per_build": 6,
   "total": 130,
@@ -5108,7 +5108,7 @@
     },
     {
       "slug": "belerick",
-      "name": "Belerick",
+      "name": "Balerick",
       "builds": [
         {
           "title": "Roam Punishment",
@@ -5348,7 +5348,7 @@
     },
     {
       "slug": "benedetta",
-      "name": "Benedetta",
+      "name": "Banedetta",
       "builds": [
         {
           "title": "EXP Lane Standard",
@@ -6613,7 +6613,7 @@
       "builds": [
         {
           "title": "Mid Siege Default",
-          "description": "Default mid build for ranked games where Chang e wants early Genius Wand shred, Holy Crystal damage, and enough late mana to keep sieging.",
+          "description": "Default mid build for ranked games where Chang'e wants early Genius Wand shred, Holy Crystal damage, and enough late mana to keep sieging.",
           "cost": 11650,
           "items": [
             {
@@ -6799,7 +6799,7 @@
         },
         {
           "title": "Anti-Dive Control",
-          "description": "Defensive mid setup for hard-engage drafts where Chang e must keep Crescent Moon active, slow divers, and survive the first lockout.",
+          "description": "Defensive mid setup for hard-engage drafts where Chang'e must keep Crescent Moon active, slow divers, and survive the first lockout.",
           "cost": 10720,
           "items": [
             {
@@ -7328,7 +7328,7 @@
             {
               "replace_with": "Radiant Armor",
               "replace": "Queen's Wings",
-              "reason": "Use against repeated magic damage from mages like Chang e or Gord where Radiant Armor stacks outvalue Queen's Wings burst protection.",
+              "reason": "Use against repeated magic damage from mages like Chang'e or Gord where Radiant Armor stacks outvalue Queen's Wings burst protection.",
               "replace_with_icon": "https://mlbbhub.com/images/items/radiant-armor.png",
               "replace_icon": "https://mlbbhub.com/images/items/queens-wings.png"
             }
@@ -16467,7 +16467,7 @@
             {
               "replace_with": "Radiant Armor",
               "replace": "Athena's Shield",
-              "reason": "Use into Chang e, Valir, Kimmy, or other repeated magic hits that extend beyond the first impact.",
+              "reason": "Use into Chang'e, Valir, Kimmy, or other repeated magic hits that extend beyond the first impact.",
               "replace_with_icon": "https://mlbbhub.com/images/items/radiant-armor.png",
               "replace_icon": "https://mlbbhub.com/images/items/athenas-shield.png"
             }
@@ -22169,8 +22169,8 @@
       ]
     },
     {
-      "slug": "lylia",
-      "name": "Lylia",
+      "slug": "lilya",
+      "name": "Lilya",
       "builds": [
         {
           "title": "Mid Tempo Burn",
@@ -23792,8 +23792,8 @@
       ]
     },
     {
-      "slug": "minsitthar",
-      "name": "Minsitthar",
+      "slug": "minsittar",
+      "name": "Minsittar",
       "builds": [
         {
           "title": "EXP Inspire Phalanx DPS",
@@ -26127,7 +26127,7 @@
     },
     {
       "slug": "odette",
-      "name": "Odette",
+      "name": "Odete",
       "builds": [
         {
           "title": "Mid Sustained DPS",
@@ -26676,7 +26676,7 @@
     },
     {
       "slug": "pharsa",
-      "name": "Pharsa",
+      "name": "Parsha",
       "builds": [
         {
           "title": "Mid Artillery Burst",
@@ -27204,7 +27204,7 @@
     },
     {
       "slug": "popol-and-kupa",
-      "name": "Popol and Kupa",
+      "name": "Popol & Kupa",
       "builds": [
         {
           "title": "Gold Lane Pickoff",
@@ -28868,7 +28868,7 @@
     },
     {
       "slug": "silvanna",
-      "name": "Silvanna",
+      "name": "Silvana",
       "builds": [
         {
           "title": "EXP Pickoff Bruiser",
@@ -30291,7 +30291,7 @@
     },
     {
       "slug": "thamuz",
-      "name": "Thamuz",
+      "name": "Thamus",
       "builds": [
         {
           "title": "EXP Contact Default",
@@ -30911,7 +30911,7 @@
             {
               "replace_with": "Radiant Armor",
               "replace": "Guardian Helmet",
-              "reason": "Use when Chang e, Valir, Yve, or other repeated magic damage keeps tagging you before Radiance stacks stabilize.",
+              "reason": "Use when Chang'e, Valir, Yve, or other repeated magic damage keeps tagging you before Radiance stacks stabilize.",
               "replace_with_icon": "https://mlbbhub.com/images/items/radiant-armor.png",
               "replace_icon": "https://mlbbhub.com/images/items/guardian-helmet.png"
             },
@@ -32438,7 +32438,7 @@
     },
     {
       "slug": "x-borg",
-      "name": "X.Borg",
+      "name": "X-Borg",
       "builds": [
         {
           "title": "EXP War Axe Control",
@@ -32987,7 +32987,7 @@
     },
     {
       "slug": "yi-sun-shin",
-      "name": "Yi Sun-shin",
+      "name": "Yi Shun Shin",
       "builds": [
         {
           "title": "Jungle Tempo Default",
